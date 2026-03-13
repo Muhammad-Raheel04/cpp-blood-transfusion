@@ -1,6 +1,7 @@
 ===============================================
   Blood Transfusion Eligibility Program (C++)
 ==============================================
+
 Description
 
 This C++ console application determines whether a person is eligible to donate blood. The program performs multiple medical checks such as age, weight, previous donation history, infectious diseases, blood pressure, blood sugar level, Complete Blood Count (CBC), and blood group validation. If all conditions are satisfied, the program also displays which blood groups the donor can donate to.
